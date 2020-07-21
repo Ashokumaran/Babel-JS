@@ -7,3 +7,10 @@ body{
     text-align: center;
     line-height: 60pt;
 }
+.design{
+    font-family: 'Work Sans', sans-serif;
+    color: #0275d8;
+    font-size: 40pt;
+    text-align: center;
+    line-height: 40pt;
+}
